@@ -1,0 +1,61 @@
+
+.hero{
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+    background-color:#253131;
+}
+
+.hero .container{
+    display: flex;
+    align-items: center;
+}
+
+
+.hero__box{
+    width: 100%;
+    max-width: 545px;
+}
+
+.headding__word{
+    color: #FDC332;
+    font-family: Play;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.hero__headding{
+    margin: 0;
+    margin-bottom: 18px;
+    padding: 0;
+    color: #FFF;
+    font-family: Play;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.hero__desc{
+    margin: 0;
+    margin-bottom: 37px;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.60);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; /* 200% */
+}
+
+.hero__link{
+    padding: 15px 40px;
+    color: #253131;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    background: #FDC332;
+}
